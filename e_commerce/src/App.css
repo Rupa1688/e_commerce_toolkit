@@ -1,0 +1,16 @@
+.App{
+    text-align: center;
+  }
+  .main{
+    bottom: 400px;
+    top: 101px;
+    left: 8px;  
+    position: absolute;
+    display: flex;    
+  }
+  .menu{
+    position: relative;
+    height: 1000px;
+ 
+    background-color: #0d6efd47;
+}

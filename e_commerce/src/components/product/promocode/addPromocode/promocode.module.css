@@ -1,0 +1,98 @@
+.categoryCard{
+    height: 512px!important;
+    width: 705px;
+    position: absolute!important;
+    left: 525px;
+    margin-top: 137px;
+    background-color: #8000001f;
+    }
+    
+    .title {
+        position: absolute;
+        left: 286px;
+        top: 9px;
+    }
+    .errorMessage_title_msg{
+        position: absolute;
+        top: 7%;
+        left: 50%;
+    }
+  
+    .errorMessage_promocode_msg{
+        position: absolute;
+        top: 17%;
+        left: 50%;
+    } 
+    .errorMessage_promocode_msg{
+        position: absolute;
+        top: 17%;
+        left: 50%;
+    } 
+    .errorMessage_discount_msg{
+        position: absolute;
+        top: 28%;
+        left: 50%;
+    }
+    .categoryAdd{
+        position: absolute;
+        margin-left:  -124px;;
+        border-radius: 10px;
+        height: 54px;
+        top: 232px;
+        width: 113px;
+    }
+    .logout{    
+        position: relative;   
+        margin-left: 460%;
+        margin-top: 530%;
+        border-radius: 10px;
+        height: 54px;
+        background-color:rgb(195, 23, 89);
+        width: 113px;  
+    }  
+    
+    .title_name{
+        left: 32%;
+        top: 10px;
+        position: absolute;
+    }
+    .promocode_name{
+        position: absolute;
+        left: 27%;
+        top: 12%;
+    }
+    .promocode{
+        position: absolute;
+    top: 11%;
+    left: 41%;
+    }
+
+.discount_name{
+    position: absolute;
+    top: 21%;
+    left: 30%;
+}
+.discount{
+    position: absolute;
+    top: 21%;
+    left: 41%;
+}
+
+.expiry_date_name{
+    position: absolute;
+    left: 27%;
+    top: 34%;
+}
+
+.expiry_date{
+    position: relative;
+    margin-top: 79%;
+    margin-left: 118%;
+}
+
+
+.promocodeAdd{
+    position: absolute;
+    top: 276px;
+}
+

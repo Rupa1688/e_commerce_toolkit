@@ -1,0 +1,38 @@
+.h2{
+    position: absolute;
+    left: 29%;
+}
+.h4{
+    position: absolute;
+    top:73px;
+    left: 29%;
+    
+}
+.p{
+    margin-left: 17%;
+    margin-top: 8%;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.TranjectionCard {
+    position: relative;
+    left: -145%;
+    margin-top: 60px;
+    width: 100%;
+    max-width: 95%;
+
+}
+.TranjectionBox{
+    margin-top: 12%;
+}
+.ShippingDetail{
+    position: absolute;
+    top: 239px;
+    width: 21%;
+    right: 19%;
+}
+
+.bilingDetail{
+    margin-left: -269%;
+
+}

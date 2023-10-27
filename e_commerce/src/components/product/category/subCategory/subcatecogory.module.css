@@ -1,0 +1,85 @@
+.categoryCard{
+    height: 445px!important;
+    width: 705px;
+    position: absolute!important;
+    left: 525px;
+    margin-top: 137px;
+    background-color: #8000001f;
+    }
+    
+    .name {
+        position: absolute;
+        left: 205px;
+        top: 101px;
+    }
+    .errorMessage .name{
+        margin-top: 5%;
+        margin-left: 5%;
+        color: red;
+        
+    }
+    .errorMessage .image{
+        margin-top: 2%;
+        margin-left: -22%;
+        color: red;
+    }
+    .errorMessage .parent_id{
+        margin-top: 5%;
+        margin-left: -22%;
+        color: red;
+    }
+
+   
+    .image{
+        margin-left: 30px;
+        margin-top: 163px;
+    }
+
+    .subCategoryAdd{
+        position: absolute;
+        margin-left: -19%;
+        border-radius: 10px;
+        height: 54px;
+        top: 305px;
+        width: 113px;
+    }
+    .logout-control{
+        position: absolute   
+    }
+    
+    .logout{    
+        position: relative;   
+        margin-left: 460%;
+        margin-top: 530%;
+        border-radius: 10px;
+        height: 54px;
+       background-color:rgb(195, 23, 89);
+        width: 113px;  
+    }  
+    /* .logout{    
+            position: absolute;
+            left: 30%;
+            top: 68%;    
+    } */
+   
+
+    .category_name {
+        position: absolute;
+        top: 19%!important;
+        left: 12%;
+    }
+    .category_image{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    }
+    .category_select{
+    position: absolute;
+    top: 53%;
+    left: 31%;
+    }
+    .category_span{
+        position: absolute;
+    top: 53%;
+    left: 19%;
+    }

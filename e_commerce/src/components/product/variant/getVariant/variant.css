@@ -1,0 +1,36 @@
+.descriptionVariant{
+    position: fixed;
+    left: 932px;
+    top: 183px;
+}
+
+.allVariantType{
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.getVariant{
+    margin-left: 78%;
+    margin-top: -74%;
+
+}
+.allVariant{
+    margin: 4%;
+    left: 115%;
+    top: 107%;
+    position: relative;
+}
+
+.allVariant_button{
+    /* left: 10%;
+    margin-top: -6%;
+    position: absolute;
+    display: flex; */
+}
+.heading_variant{
+    margin-left: 65%;
+    margin-top: 69%;
+}
+.variant_span{
+    font-size: 1.95rem;
+    position: fixed;
+}

@@ -1,0 +1,26 @@
+.loginCard{
+    height: 435px!important;
+    width: 705px;
+    position: absolute!important;
+    left: 525px;
+    margin-top: 137px;
+}
+.form_group{
+    margin-bottom: 1rem!important;
+    margin-top: 56px;
+}
+.cust_form_label {
+    margin-bottom: 0.5rem;
+    margin-left: -216px;
+}
+.login{
+    position: absolute;
+    left: 269px;
+    top: 296px;
+}
+.email{
+ margin-left: 196px;
+}
+.password{
+    margin-left: 196px;
+   }

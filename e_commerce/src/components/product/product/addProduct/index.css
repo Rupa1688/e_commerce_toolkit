@@ -1,0 +1,111 @@
+.categoryCard{
+    height: 445px!important;
+    width: 705px;
+    position: absolute!important;
+    left: 525px;
+    margin-top: 137px;
+    background-color: #8000001f;
+    }    
+.name {
+    position: absolute;
+    left: 205px;
+    top: 101px;
+}
+.errorMessage .product_name{
+    position: absolute;
+    color: red;
+    top: 16%;
+    left: 41%;
+}
+.errorMessage .product_image1{
+    position: absolute;
+    top: 34%;
+    left: 41%;
+    color: red;
+
+}
+.errorMessage .product_category_id{
+    position: absolute;
+    top: 48%;
+    left: 40%;
+    color: red;
+}
+.errorMessage .product_description_err{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    color: red;
+}
+.errorMessage .product_price_msg{
+    position: absolute;
+    top: 74%;
+    left: 40%;
+    color: red;
+}    
+.image1{
+    margin-left: -125px;
+    margin-top: 111px;
+    position: absolute;
+}
+
+.productAdd1{
+    position: absolute;
+    margin-left: -118px;
+    border-radius: 10px;
+    height: 54px;
+    top: 448px;
+    width: 113px;
+}
+.logout-control{
+    position: absolute   
+}
+
+.logout{    
+    position: relative;   
+    margin-left: 460%;
+    margin-top: 530%;
+    border-radius: 10px;
+    height: 54px;
+   background-color:rgb(195, 23, 89);
+    width: 113px;  
+}
+.category_name{
+    position: absolute;
+    top: 10%;
+    left: 12%;
+}
+.category_image{
+position: absolute;
+    top: 37%;
+    left: 20%;
+}
+.category_select{
+    position: absolute;
+    top: 53%;
+    left: 31%;
+}
+.category_span{
+    position: absolute;
+    top: 53%;
+    left: 19%;
+}
+.category_desc{
+    position: absolute;
+    top: 64%;
+    left: 17%;
+}
+.description{
+    position: absolute;
+    left: 220px;
+    top: 282px;
+}
+.category_price{
+    position: absolute;
+    top: 76%;
+    left: 17%;
+}
+.price{
+    margin-left: 214px;
+    position: absolute;
+    margin-top: 4px;
+}

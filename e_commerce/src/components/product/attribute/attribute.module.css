@@ -1,0 +1,63 @@
+.attribue_card{
+    height: 451px!important;
+    width: 408px;
+    position: absolute!important;
+    left: 525px;
+    margin-top: 137px;
+    background-color: #8000001f;
+}
+.category_span {
+    position: absolute;
+    top: 42%;
+    left: 19%;
+}
+.attribute_select{
+    position: absolute;
+    top: 3%;
+    left: 40%;
+}
+
+.add_new{
+    position: absolute;
+    display: flex;
+    top: 72%;
+    left: 36%;
+}
+
+.add_attribute{
+    top: 86%;
+    left: 32%;
+    position: absolute;
+}
+.category_span{
+    position: absolute;
+    top: 3%;
+    left: 19%;
+}
+.add_textBox{
+    display: flex;
+    margin-top: 4%;
+    margin-left: 22%;
+}
+.addmargin_textbox{
+    position: relative;
+    margin-top: 13%;
+}
+
+.deleteButton_div{
+    position: relative;
+    margin-top: -7%;
+}
+.deleteButton_icon{
+    position: absolute;
+    display: flex;
+    top: 13%;
+    left: 77%;
+}
+
+.product_cust{
+    position: absolute;
+    top: 8%;
+    left: 37%;
+    color: red;
+}

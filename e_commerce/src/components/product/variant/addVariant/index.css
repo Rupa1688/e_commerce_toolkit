@@ -1,0 +1,158 @@
+.categoryCard{
+    height: 545px!important;
+    width: 698px;
+    position: absolute!important;
+    left: 525px;
+    margin-top: 137px;
+    background-color: #8000001f;
+    }    
+.name {
+    position: absolute;
+    left: 218px;
+    top: 50px;
+
+}
+.errorMessage .variant_name_err{
+    position: absolute;
+    left: 41%;
+    top: 15%;
+    color: red;
+
+    
+}
+.errorMessage .image_v_err{
+    position: absolute;
+    left: 42%;
+    top: 27%;
+    color: red;
+}
+
+
+.errorMessage .variant_image_err{
+    position: absolute;
+    left: 42%;
+    top: 38%;
+    color: red;
+}
+.errorMessage .variant_product_id{
+    position: absolute;
+    left: 41%;
+    top: 47%;
+    color: red;
+}
+.errorMessage .variant_description_err{
+    position: absolute;
+    left: 41%;
+    top: 60%;
+    color: red;
+}
+.errorMessage .variant_price_msg{
+    position: absolute;
+    left: 41%;
+    top: 72%;
+    color: red;
+
+}   
+.errorMessage .variant_color_msg{
+    position: absolute;
+    left: 41%;
+    top: 83%;
+    color: red;
+
+}
+
+
+.image_v{
+    margin-left: -129px;
+    margin-top: 111px;
+    position: absolute;
+
+}
+.variant_image{
+    position: absolute;
+    top: 32%;
+    left: 12%;
+
+}
+.variant_image_fields{
+    position: absolute;
+    top: 32%;
+    left: 31%;
+
+}
+
+.variantAdd{
+    position: absolute;
+    
+    margin-left: -16%;;
+    border-radius: 10px;
+    height: 54px;
+    top: 474px;
+    width: 113px;
+}
+.logout-control{
+    position: absolute   
+}
+
+.logout{    
+    position: relative;
+    margin-left: 463%;
+    margin-top: 606%;
+    border-radius: 10px;
+    height: 54px;
+    background-color: rgb(195, 23, 89);
+    width: 113px;
+}
+.variant_name{
+    position: absolute;
+    top: 10%;
+    left: 13%;
+  
+}
+.category_image{
+    position: absolute;
+    top: 22%;
+    left: 20%;
+}
+.category_select{
+    position: absolute;
+    top: 42%;
+    left: 31%;
+}
+.category_span{
+    position: absolute;
+    top: 42%;
+    left: 19%;
+}
+.category_desc{
+    
+    position: absolute;
+    top: 53%;
+    left: 17%;
+
+}
+.description{
+    position: absolute;
+    left: 220px;
+    top: 282px;
+}
+.category_price{
+    position: absolute;
+    top: 66%;
+    left: 23%;
+}
+.price{
+    left: 1%;
+    position: absolute;
+    top: 65%;
+}
+.color{
+    position: absolute;
+    top: 77%;
+    left: 23%;
+}
+.variant_color{
+    left: 32%;
+    position: absolute;
+    top: 77%;
+}
